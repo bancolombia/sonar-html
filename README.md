@@ -3,6 +3,8 @@ Code Quality and Security for HTML
 
 [![Build Status](https://api.travis-ci.org/SonarSource/sonar-html.svg)](https://travis-ci.org/SonarSource/sonar-html)
 
+
+[![Scorecards supply-chain security](https://github.com/bancolombia/sonar-html/actions/workflows/scorecards-analysis.yml/badge.svg)](https://github.com/bancolombia/sonar-html/actions/workflows/scorecards-analysis.yml)
 Useful links
 ------------
 
